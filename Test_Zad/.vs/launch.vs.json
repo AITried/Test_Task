@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "Test_Zad.exe (Test_Zad\\Test_Zad.exe)",
+      "name": "Test_Zad.exe (Test_Zad\\Test_Zad.exe)"
+    }
+  ]
+}

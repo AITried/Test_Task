@@ -1,0 +1,5 @@
+C:/Users/79182/source/repos/Test_zad_v2/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/79182/source/repos/Test_zad_v2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/79182/source/repos/Test_zad_v2/out/build/x64-debug/Test_zad_v2/CMakeFiles/Test_zad_v2.dir
+C:/Users/79182/source/repos/Test_zad_v2/out/build/x64-debug/Test_zad_v2/CMakeFiles/edit_cache.dir
+C:/Users/79182/source/repos/Test_zad_v2/out/build/x64-debug/Test_zad_v2/CMakeFiles/rebuild_cache.dir
